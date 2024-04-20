@@ -1,16 +1,5 @@
-# marketplace
-
-A Marketplace test app
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Приложение маркетплейса
+![image](https://github.com/TIMISONG-dev/marketplace/assets/63451549/0367b59c-2b07-4b83-a533-ea9340b760d5)
+![image](https://github.com/TIMISONG-dev/marketplace/assets/63451549/7158e20d-5f0a-4b3a-b5be-84b12c675bc7)
+![image](https://github.com/TIMISONG-dev/marketplace/assets/63451549/39c0cda6-731a-47ee-8854-b0ebd5e4367b)
+![image](https://github.com/TIMISONG-dev/marketplace/assets/63451549/e3ded8b6-f7df-46e5-85b2-462d06a3a43e)
